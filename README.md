@@ -1,6 +1,8 @@
 # Book Finder
 
-**Book Finder** is a web application that allows users to search for books using the Google Books API. Users can search for books by title, author, or ISBN and view the results, which include book covers, titles, authors, descriptions, and links to more details on Google Books.
+[Book Finder](https://my-book-finder-tool.netlify.app/) is a web application that allows users to search for books using the Google Books API. Users can search for books by title, author, or ISBN and view the results, which include book covers, titles, authors, descriptions, and links to more details on Google Books.
+
+[![CodeFactor](https://www.codefactor.io/repository/github/codelikeagirl29/books-search-tool/badge)](https://www.codefactor.io/repository/github/codelikeagirl29/books-search-tool)
 
 ![Book Finder Screenshot](https://res.cloudinary.com/dhw9dl4gm/image/upload/v1734228411/Book-Finder-12-14-2024_08_04_PM_lklzny.png)
 
