@@ -33,7 +33,7 @@ git clone https://github.com/codelikeagirl29/books-search-tool.git
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd book-finder
+cd books-search-tool
 ```
 
 ### 3. Open `index.html` in a Browser
@@ -112,7 +112,3 @@ The logic is handled in `assets/script.js`:
 
 Designed and developed by **Lindsey**.  
 Visit [lindseyk.dev](http://www.lindseyk.dev) for more projects.
-
----
-
-Feel free to copy and paste this content into a `README.md` file! Let me know if you'd like any further adjustments. 😊
